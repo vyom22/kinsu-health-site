@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://kinsu.health/</loc>
+    <image:image><image:loc>https://kinsu.health/_astro/05-records.B0jE2SUn_ZcyheG.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/02-medications.BGnf-gq-_Z112YRX.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/03-track.wzSVRr56_ZTJ0ay.png</image:loc></image:image>
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
@@ -26,6 +29,7 @@
   </url>
   <url>
     <loc>https://kinsu.health/emergency</loc>
+    <image:image><image:loc>https://kinsu.health/_astro/06-sos.Cw2h9OYz_208rL1.png</image:loc></image:image>
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
@@ -46,14 +50,24 @@
   </url>
   <url>
     <loc>https://kinsu.health/health-records</loc>
+    <image:image><image:loc>https://kinsu.health/_astro/05-records.B0jE2SUn_ZcyheG.png</image:loc></image:image>
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://kinsu.health/how-it-works</loc>
+    <image:image><image:loc>https://kinsu.health/_astro/01-home-today.DTA_Dm_b_6tYu4.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/02-medications.BGnf-gq-_Z112YRX.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/03-track.wzSVRr56_ZTJ0ay.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/04-vitals.BMcjzFUP_Z1VRfAT.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/05-records.B0jE2SUn_ZcyheG.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/06-sos.Cw2h9OYz_208rL1.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/07-home-dark.Cu0qvzHQ_QqVto.png</image:loc></image:image>
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://kinsu.health/medicine-reminders</loc>
+    <image:image><image:loc>https://kinsu.health/_astro/02-medications.BGnf-gq-_Z112YRX.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/01-home-today.DTA_Dm_b_6tYu4.png</image:loc></image:image>
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
@@ -74,6 +88,8 @@
   </url>
   <url>
     <loc>https://kinsu.health/vitals</loc>
+    <image:image><image:loc>https://kinsu.health/_astro/03-track.wzSVRr56_ZTJ0ay.png</image:loc></image:image>
+    <image:image><image:loc>https://kinsu.health/_astro/04-vitals.BMcjzFUP_Z1VRfAT.png</image:loc></image:image>
     <lastmod>2026-10-07</lastmod>
   </url>
 </urlset>
