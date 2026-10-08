@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://kinsu.health/download</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-08</lastmod>
   </url>
   <url>
     <loc>https://kinsu.health/editorial-policy</loc>
@@ -69,6 +69,10 @@
     <image:image><image:loc>https://kinsu.health/_astro/02-medications.BGnf-gq-_Z112YRX.png</image:loc></image:image>
     <image:image><image:loc>https://kinsu.health/_astro/01-home-today.DTA_Dm_b_6tYu4.png</image:loc></image:image>
     <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://kinsu.health/printables</loc>
+    <lastmod>2026-10-08</lastmod>
   </url>
   <url>
     <loc>https://kinsu.health/privacy</loc>
