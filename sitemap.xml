@@ -76,7 +76,7 @@
   </url>
   <url>
     <loc>https://kinsu.health/privacy</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-08</lastmod>
   </url>
   <url>
     <loc>https://kinsu.health/privacy-and-security</loc>
@@ -95,5 +95,29 @@
     <image:image><image:loc>https://kinsu.health/_astro/03-track.wzSVRr56_ZTJ0ay.png</image:loc></image:image>
     <image:image><image:loc>https://kinsu.health/_astro/04-vitals.BMcjzFUP_Z1VRfAT.png</image:loc></image:image>
     <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://kinsu.health/blog/</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://kinsu.health/blog/how-to-organise-your-familys-medical-records</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://kinsu.health/blog/the-hospital-file</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://kinsu.health/blog/what-to-take-to-a-doctors-appointment</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://kinsu.health/blog/category/records</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://kinsu.health/blog/category/doctor-visits</loc>
+    <lastmod>2026-10-08</lastmod>
   </url>
 </urlset>
